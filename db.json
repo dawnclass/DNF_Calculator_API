@@ -1,5 +1,11 @@
 {
-  "test" : true,
-  "testTest" : "I'm DawnClass",
-  "testInt" : 123
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
